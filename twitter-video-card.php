@@ -3,7 +3,7 @@
 Plugin Name: Twitter Video Card
 Description: Adds Twitter Video Card meta tags to your WordPress posts and pages, including support for YouTube videos.
 Version: 1.1
-Author: Your Name
+Author: kreatifsayfa
 */
 
 function tvc_add_meta_tags() {
